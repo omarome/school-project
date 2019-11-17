@@ -1,7 +1,7 @@
 import React from 'react';
 import {BrowserRouter as Router, Route, Link, Switch} from 'react-router-dom';
 import {makeStyles} from '@material-ui/core/styles';
-import { AppBar, Tab, Tabs, Typography } from '@material-ui/core';
+import { AppBar, Tab, Tabs } from '@material-ui/core';
 import HomePage from './Views/Home/Home';
 import AboutPage from './Views/About/About';
 import ProductPage from './Views/Products/ProductsPage';
@@ -13,11 +13,6 @@ const useStyles = makeStyles(theme => ({
     flexGrow: 1,
     backgroundColor: theme.palette.background.paper,
     },
-  layoutComponent: {
-    height: '100vh', 
-    padding: '13px',
-    width: '100%',
-  },
 }));
 
 export default function App() {
@@ -45,15 +40,17 @@ export default function App() {
           </AppBar>
        </div>  
 
-                  <Typography  className={classes.layoutComponent} >
-                      <Switch>
+       
+
+       <Switch >
                         <Route exact path="/" component={HomePage}/>
                         <Route path="/products" component={ProductPage}/>
                         <Route path="/cart" component={CartPage}/>
                         <Route path="/contact" component={ContactPage}/>
                         <Route path="/about" component={AboutPage}/>
-                      </Switch>
-                </Typography>
+       </Switch>
+       
+
 
     </Router>
   );
