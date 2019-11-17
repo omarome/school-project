@@ -6,9 +6,17 @@ export default function AboutPage(){
 
 
     return(
-    <Button variant="contained" color="primary">
-        About
-    </Button>
+        <div>
+        <Button variant="contained" color="primary">
+         About
+        </Button>
+        <Button variant="contained" color="primary">
+            About
+        </Button>
+        <Button variant="contained" color="primary">
+            About
+        </Button>
+        </div>
           
     )
 }
