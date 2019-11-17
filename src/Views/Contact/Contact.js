@@ -1,10 +1,10 @@
 import React from 'react';
-import Button from '@material-ui/core/Button';
+import ContactCard from './card';
 
 export default function ContactPage(){
+    
     return(
-    <Button variant="contained" color="primary">
-        contact 
-    </Button>
-    )
+        <ContactCard name="Ammar Ja Omar"/>
+    );
+    
 }
