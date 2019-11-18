@@ -1,10 +1,12 @@
 import React from 'react'
-import Button from '@material-ui/core/Button';
+import Image from 'material-ui-image';
 
 export default function HomePage(){
     return(
-    <Button variant="contained" color="primary">
-        Hello World
-    </Button>
+        <div>
+            <Image 
+        src="src/media/avatar2.png"
+        />
+        </div>
     )
 }

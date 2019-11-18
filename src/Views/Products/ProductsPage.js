@@ -1,13 +1,13 @@
 import React from 'react';
-import Button from '@material-ui/core/Button';
+
 
 
 export default function ProductsPage(){
 
 
     return(
-    <Button variant="contained" color="primary">
-      Proeducts 
-    </Button>
+      <div>
+        <img src={require('/home/rami/School-Project/src/media/minion.jpg')} alt=" not found"/>
+     </div>
     )
 }
