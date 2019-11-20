@@ -15,8 +15,10 @@ const useStyles = makeStyles({
     maxWidth: '49%',
     float:"left",
   },
-  media: {
-    height: 640,
+  bigAvatar: {
+    margin: 10,
+    width: 160,
+    height: 160,
   },
 });
 export default function ContactCard(props){
@@ -25,8 +27,8 @@ export default function ContactCard(props){
         <Card className={classes.card}>
         <CardActionArea>
           <CardMedia
-            className={classes.media}
-            image='src/media/minion.jpg'
+            className={classes.bigAvatar}
+            image={require('../../media/avatar.png')}
             title="Contemplative Reptile"
           />
           <CardContent>
