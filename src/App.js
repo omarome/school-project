@@ -5,7 +5,7 @@ import { AppBar, Tab, Tabs, Tooltip, Fab } from '@material-ui/core';
 import HomePage from './Views/Home/Home';
 import AboutPage from './Views/About/About';
 import ProductPage from './Views/Products/ProductsPage';
-import CartPage from './Views/Cart/Cart';
+// import CartPage from './Views/Cart/Cart';
 import ContactPage from './Views/Contact/Contact';
 import {Home, Devices, ContactMail, Info, ShoppingCart as CartIcon} from '@material-ui/icons';
 
@@ -32,7 +32,7 @@ export default function App() {
   };
   
   return (
-    <div >
+    < >
     <Router>
           
         <div className={classes.root}>
@@ -59,11 +59,11 @@ export default function App() {
     </Router>
     
             <Tooltip title="My shopping list" aria-label="shopping item">
-               <Fab color="secondary" className={classes.absolute}>
-              <CartIcon />
+                <Fab color="secondary" className={classes.absolute}>
+                    <CartIcon />
                 </Fab>
             </Tooltip>
-    </div>
+    </>
   );
 }
 

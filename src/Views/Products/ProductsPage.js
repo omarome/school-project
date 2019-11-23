@@ -1,4 +1,5 @@
 import React from 'react';
+import ProductCard from './ProductCard';
 
 
 
@@ -6,8 +7,8 @@ export default function ProductsPage(){
 
 
     return(
-      <div>
-        <img src={require('../../media/minion.jpg')} alt=" not found"/>
-     </div>
+      <>
+        <ProductCard/>
+     </>
     )
 }

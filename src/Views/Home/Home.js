@@ -3,9 +3,9 @@ import Image from 'material-ui-image';
 
 export default function HomePage(){
     return(
-        <div>
+        <div >
             <Image 
-        src="src/media/avatar2.png"
+        src={require('../../media/home.jpg')}
         />
         </div>
     )

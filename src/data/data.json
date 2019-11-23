@@ -1,0 +1,281 @@
+[{
+    "Id": "a63c74ac-b3e0-4032-8d60-f9cc996b55c2",
+    "imgurl":"./media/iphone4.png",
+    "index": 1,
+    "product_name": "Iphone 4",
+    "price": "€349,35",
+    "product_ssn": "897-73-9005"
+  }, {
+    "Id": "b664fb17-fb64-466c-97a0-e06dc79c0622",
+    "imgurl":"../media/ihpone11.png",
+    "index": 2,
+    "product_name": "Iphone 11",
+    "price": "€1240,40",
+    "product_ssn": "831-22-0245"
+  }, {
+    "Id": "91002a18-5a7b-4331-ace6-eb1bcc59cff9",
+    "imgurl":"../media/galaxys10.jpg",
+    "index": 3,
+    "product_name": "Samsung 10s",
+    "price": "€899,50",
+    "product_ssn": "138-06-8677"
+  }, {
+    "Id": "97231a66-d841-4dc6-94d3-bc498352222b",
+    "imgurl":"../media/mate30pro.png",
+    "index": 4,
+    "product_name": "Huawei 30 pro",
+    "price": "€565,05",
+    "product_ssn": "519-31-6800"
+  }, {
+    "Id": "b539fac3-852f-443b-8edf-c32304aa33d6",
+    "imgurl":"../media/thinkpad.jpg",
+    "index": 5,
+    "product_name": "ThinkPad",
+    "price": "€1255,00",
+    "product_ssn": "645-82-9969"
+  }, {
+    "Id": "a0042fd0-6bac-439e-80cb-d95458f9d962",
+    "imgurl":"../media/samsungtv55.webp",
+    "index": 6,
+    "product_name": "Samsung TV 55\"",
+    "price": "€650,80",
+    "product_ssn": "642-09-1299"
+  }, {
+    "Id": "e127400e-0413-4cc0-80c4-226cd5e57e79",
+    "imgurl":"../media/nokialumia.jpg",
+    "index": 7,
+    "product_name": "Nokia Lumi",
+    "price": "€236,06",
+    "product_ssn": "691-42-6238"
+  }, {
+    "Id": "f1f5de62-a1c6-4ce2-9ff6-c63358e3bb74",
+    "imgurl":"../media/iphone7.jpg",
+    "index": 8,
+    "product_name": "Iphone 7 Plus",
+    "price": "€649,30",
+    "product_ssn": "766-13-9140"
+  }, {
+    "Id": "51dfc3e5-d7f0-45c7-b4df-41953cb0d666",
+    "imgurl":"../media/iphone11promax.png",
+    "index": 9,
+    "product_name": "Iphone 11 Pro Max",
+    "price": "€1622,41",
+    "product_ssn": "141-24-6967"
+  }, {
+    "Id": "dc23d1c5-e991-403c-8341-c2528f7b444b",
+    "imgurl":"../media/note10plus.jpg",
+    "index": 10,
+    "product_name": "Samsung Note 10\\+",
+    "price": "€1100,63",
+    "product_ssn": "167-74-0226"
+  }, {
+    "Id": "11a7c0fa-0df8-49c0-8d08-5082f6c5f5e6",
+    "imgurl":"../media/iphone8.jpeg",
+    "index": 11,
+    "product_name": "Iphone 8 cover",
+    "price": "€47,80",
+    "product_ssn": "409-52-8273"
+  }, {
+    "Id": "10bd5f3d-7a71-441c-b88a-4d66e7a6da0b",
+    "imgurl":"../media/ps4.png",
+    "index": 12,
+    "product_name": "Ps4 ",
+    "price": "€443,60",
+    "product_ssn": "325-03-2323"
+  }, {
+    "Id": "590b6dfb-045a-4759-8420-fb59732f0fed",
+    "imgurl":"../media/macbookpro.png",
+    "index": 13,
+    "product_name": "MacBook Pro",
+    "price": "€2281,66",
+    "product_ssn": "102-22-2719"
+  }, {
+    "Id": "db6e137f-08f1-4fcc-bde8-e77821b14557",
+    "imgurl":"../media/macbookair.png",
+    "index": 14,
+    "product_name": "MacBook Air 13\"",
+    "price": "€1334,86",
+    "product_ssn": "623-21-9761"
+  }, {
+    "Id": "bea95b12-692b-4fca-b976-bc7df543b5ac",
+    "imgurl":"../media/hp.png",
+    "index": 15,
+    "product_name": "HP",
+    "price": "€1826,16",
+    "product_ssn": "288-66-7627"
+  }, {
+    "Id": "d1d6ff18-3af2-4a47-90b7-97312bc04e9b",
+    "imgurl":"../media/mate20pro.jpg",
+    "index": 16,
+    "product_name": "Huawei Mate 20 Pro",
+    "price": "€898,79",
+    "product_ssn": "112-13-9482"
+  }, {
+    "Id": "a0f5aef2-bcf7-4ae4-a08c-b2ece8a586c7",
+    "imgurl":"../media/imac.jpg",
+    "index": 17,
+    "product_name": "IMAC",
+    "price": "€3621,34",
+    "product_ssn": "173-98-8182"
+  }, {
+    "Id": "d753107a-8a82-4e10-b337-6610bf826cb7",
+    "imgurl":"../media/",
+    "index": 18,
+    "product_name": "Iphone",
+    "price": "€7,26",
+    "product_ssn": "103-96-1898"
+  }, {
+    "Id": "b841f24b-9394-4ebd-8930-f2984b4a0421",
+    "imgurl":"../media/",
+    "index": 19,
+    "product_name": "Iphone",
+    "price": "€5,28",
+    "product_ssn": "453-78-0523"
+  }, {
+    "Id": "737951bf-e604-46e6-9776-cb0c8e2c5a45",
+    "imgurl":"../media/",
+    "index": 20,
+    "product_name": "Iphone",
+    "price": "€8,78",
+    "product_ssn": "152-63-3645"
+  }, {
+    "Id": "b5eb3201-fb45-414c-b2f6-87b0a66fa0b0",
+    "imgurl":"../media/",
+    "index": 21,
+    "product_name": "Iphone",
+    "price": "€6,06",
+    "product_ssn": "265-06-2263"
+  }, {
+    "Id": "5158eedb-f0c5-4294-b9b3-6730390b09e6",
+    "imgurl":"../media/",
+    "index": 22,
+    "product_name": "Iphone",
+    "price": "€7,78",
+    "product_ssn": "881-47-6522"
+  }, {
+    "Id": "baad8daf-fcc5-4b4c-bc80-cbe8536232a2",
+    "imgurl":"../media/",
+    "index": 23,
+    "product_name": "Iphone",
+    "price": "€5,21",
+    "product_ssn": "243-19-3330"
+  }, {
+    "Id": "353f0100-4293-4c68-b0d1-4292928c701d",
+    "imgurl":"../media/",
+    "index": 24,
+    "product_name": "Iphone",
+    "price": "€3,56",
+    "product_ssn": "326-53-5882"
+  }, {
+    "Id": "5b87ff75-da38-40be-a9c6-34b12efd1de7",
+    "imgurl":"../media/",
+    "index": 25,
+    "product_name": "Iphone",
+    "price": "€7,66",
+    "product_ssn": "830-83-9484"
+  }, {
+    "Id": "56d689f6-adba-47f0-9101-ecd281d7d24f",
+    "imgurl":"../media/",
+    "index": 26,
+    "product_name": "Iphone",
+    "price": "€2,57",
+    "product_ssn": "895-68-4512"
+  }, {
+    "Id": "17c516cf-498c-434a-80b6-2fd1398ffd72",
+    "imgurl":"../media/",
+    "index": 27,
+    "product_name": "Iphone",
+    "price": "€8,46",
+    "product_ssn": "809-84-2969"
+  }, {
+    "Id": "c8b69b8a-d8a8-47d9-bfde-d0377764db59",
+    "imgurl":"../media/",
+    "index": 28,
+    "product_name": "Iphone",
+    "price": "€7,48",
+    "product_ssn": "283-04-1478"
+  }, {
+    "Id": "a3fba789-66c9-4c83-850f-cafda398e443",
+    "imgurl":"../media/",
+    "index": 29,
+    "product_name": "Iphone",
+    "price": "€2,18",
+    "product_ssn": "359-42-9888"
+  }, {
+    "Id": "aac99859-4c08-4b58-b9e7-86040c0fecfb",
+    "imgurl":"../media/",
+    "index": 30,
+    "product_name": "Iphone",
+    "price": "€6,96",
+    "product_ssn": "263-64-3447"
+  }, {
+    "Id": "07dfe970-789f-4a7e-91f1-82559abc43c4",
+    "imgurl":"../media/",
+    "index": 31,
+    "product_name": "Iphone",
+    "price": "€6,61",
+    "product_ssn": "202-12-0469"
+  }, {
+    "Id": "f9a7663e-a807-4d84-96b0-c506c756aea7",
+    "imgurl":"../media/",
+    "index": 32,
+    "product_name": "Iphone",
+    "price": "€8,57",
+    "product_ssn": "775-03-8597"
+  }, {
+    "Id": "813a2d13-0ab0-47b4-87f3-0343f1ea740e",
+    "imgurl":"../media/",
+    "index": 33,
+    "product_name": "Iphone",
+    "price": "€5,99",
+    "product_ssn": "453-83-6179"
+  }, {
+    "Id": "6b8288d4-cf06-405d-8929-d1469c24f9f6",
+    "imgurl":"../media/",
+    "index": 34,
+    "product_name": "Iphone",
+    "price": "€7,61",
+    "product_ssn": "563-63-1537"
+  }, {
+    "Id": "b14c531c-97fe-46a4-8d4e-1c6880c690f4",
+    "imgurl":"../media/",
+    "index": 35,
+    "product_name": "Iphone",
+    "price": "€3,05",
+    "product_ssn": "268-16-9368"
+  }, {
+    "Id": "e3bd11b6-4f4f-441a-bc29-c68df0d7f677",
+    "imgurl":"../media/",
+    "index": 36,
+    "product_name": "Iphone",
+    "price": "€3,35",
+    "product_ssn": "138-26-5644"
+  }, {
+    "Id": "5e645a7e-6e1b-4026-9291-2ebb6415d985",
+    "imgurl":"../media/",
+    "index": 37,
+    "product_name": "Iphone",
+    "price": "€5,06",
+    "product_ssn": "483-18-8900"
+  }, {
+    "Id": "206cb271-4b29-49e5-a39b-3fcdf3595c7c",
+    "imgurl":"../media/",
+    "index": 38,
+    "product_name": "Iphone",
+    "price": "€6,19",
+    "product_ssn": "488-21-2042"
+  }, {
+    "Id": "4538caec-10b2-4c71-9001-d4a1f857b1c6",
+    "imgurl":"../media/",
+    "index": 39,
+    "product_name": "Iphone",
+    "price": "€2,88",
+    "product_ssn": "781-73-6388"
+  }, {
+    "Id": "1d702b75-68a2-4717-a5a9-9e50dd01d0ab",
+    "imgurl":"../media/",
+    "index": 40,
+    "product_name": "Iphone",
+    "price": "€2,23",
+    "product_ssn": "649-35-4914"
+  }]
