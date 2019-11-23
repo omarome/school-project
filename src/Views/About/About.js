@@ -23,6 +23,11 @@ export default function AboutPage() {
 
   return (
 <React.Fragment>
+      <img 
+        src={require('../../media/logo.png')}
+        style={{float:'left', width:'30vw'}}
+        alt="can not found item."
+      />
 <div className={classes.root}>
       <CssBaseline />
       <Container component="main" className={classes.main} maxWidth="sm">
@@ -35,7 +40,6 @@ export default function AboutPage() {
         </Typography>
         <Typography variant="body1">Ammar Daham</Typography>
       </Container>
-    
     </div>
 </React.Fragment>
   );

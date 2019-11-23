@@ -1,6 +1,6 @@
 [{
     "Id": "a63c74ac-b3e0-4032-8d60-f9cc996b55c2",
-    "imgurl":"./media/iphone4.png",
+    "imgurl":"../media/iphone4.png",
     "index": 1,
     "product_name": "Iphone 4",
     "price": "€349,35",

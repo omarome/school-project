@@ -16,7 +16,7 @@ const useStyles = makeStyles(theme=>({
         margin: theme.spacing(2),
     },
     media: {
-        height: 140,
+        height: 160,
     },
     grid:{
         spacing: theme.spacing(2)
@@ -37,7 +37,7 @@ export default function ProductCard() {
                                 <CardActionArea>
                                     <CardMedia
                                     className={classes.media}
-                                    image={require('../../media/macbookair.png')}
+                                    image={require('../../media/item.png')}
                                     title="Contemplative Reptile"
                                     />
                                     <CardContent>
