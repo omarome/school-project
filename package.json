@@ -7,7 +7,7 @@
     "@material-ui/icons": "^4.5.1",
     "bootstrap": "^4.3.1",
     "clsx": "^1.0.4",
-    "jquery": "^1.9.1",
+    "jquery": "^3.4.0",
     "material-ui-image": "^3.2.2",
     "mini-create-react-context": "^0.3.2",
     "prop-types": "^15.7.2",
